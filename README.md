@@ -1,4 +1,4 @@
-![Profile GIF](https://github.com/kevinjouret/kevinjouret/blob/main/github_intro.gif)
+![Profile GIF](https://github.com/kevinjouret/kevinjouret/blob/main/intro.gif)
 
 <!--
 
